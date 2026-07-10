@@ -9,6 +9,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write # This grants the bot permission to push the final animation
 
     steps:
       # Generates the custom-themed animation from your grid data
