@@ -40,9 +40,6 @@ A mathematical graphics project manipulating vertex and fragment shaders directl
 
 ---
 
-## 📊 Live GitHub Activity
----
-
 ## 📊 Live Contribution Stream
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
