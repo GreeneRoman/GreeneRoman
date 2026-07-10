@@ -43,3 +43,13 @@ A mathematical graphics project manipulating vertex and fragment shaders directl
 ## 📊 Live Contribution Stream
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
+
+---
+
+## 🥽 Immersive Simulation Matrix
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GreeneRoman/GreeneRoman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GreeneRoman/GreeneRoman/output/github-contribution-grid-snake.svg" />
+  <img alt="Spatial Grid Simulation" src="https://raw.githubusercontent.com/GreeneRoman/GreeneRoman/output/github-contribution-grid-snake.svg" />
+</picture>
