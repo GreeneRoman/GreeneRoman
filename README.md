@@ -75,7 +75,6 @@
     </g>
   </svg>
 </h1>
-### Spatial Computing & Graphics Engineer 🥽✨
 
 ---
 
