@@ -1,4 +1,26 @@
-# Hi there, I'm GreeneRoman 👋 
+<h1 align="center">
+  <samp>
+    <span style="font-weight: 900; font-size: 2.2em; letter-spacing: 2px;
+      color: #00f0ff; 
+      text-shadow: 
+        0 1px 0 #00ced1, 
+        0 2px 0 #00a8a8, 
+        0 3px 0 #008b8b, 
+        0 4px 0 #007070, 
+        0 5px 0 #005555, 
+        0 6px 1px rgba(0,240,255,0.1), 
+        0 0 5px rgba(0,240,255,0.2), 
+        0 10px 10px rgba(0,74,127,0.4), 
+        0 20px 20px rgba(0,240,255,0.15),
+        2px 2px 0px rgba(78,231,162,0.3),   /* Translucent Sea-Green Shift */
+        -2px -2px 0px rgba(0,240,255,0.5); /* Glowing Aqua Highlight */
+      background: linear-gradient(135deg, #a7ffeb 0%, #00e5ff 50%, #007799 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;">
+      Hi there, I'm GreeneRoman 🐳✨
+    </span>
+  </samp>
+</h1>
 ### Spatial Computing & Graphics Engineer 🥽✨
 
 ---
