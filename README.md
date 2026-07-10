@@ -19,22 +19,26 @@
 
 ---
 
-## 🏗️ Pinned Masterpieces (In Development)
+## 🏗️ Featured Repositories
 
-<details>
-<summary><b>🛠️ Project 1: Performance Optimization Sandbox</b></summary>
+<details open>
+<summary><b>⚡ AsyncSpatial</b></summary>
 <br>
-An isolated XR tech demo built to stress-test standalone mobile VR hardware. Focusing on memory allocation management, custom object pooling, and draw call reduction to hit a locked 90 FPS.
+Solves browser memory bottlenecks for volumetric datasets by wrapping an optimized Unity WebGL C# ring buffer inside a reactive Vue 3 telemetry interface. Focuses on low-overhead memory cycles and efficient runtime telemetry processing.
 <br>
-<i>Status: Architectural phase. Codebase coming soon.</i>
+<i>Tech Stack: <code>C#</code>, <code>Unity WebGL</code>, <code>Vue 3</code>, <code>TypeScript</code></i> 
+<br>
+🔗 <b><a href="https://github.com/GreeneRoman/AsyncSpatial">View Repository</a></b>
 </details>
 
-<details>
-<summary><b>🎨 Project 2: Custom Shader & Graphics Showpiece</b></summary>
+<details open>
+<summary><b>🧬 dna-triage-dashboard</b></summary>
 <br>
-A mathematical graphics project manipulating vertex and fragment shaders directly to handle dynamic, real-time spatial rendering.
+A clinical triage dashboard built as a Proof of Concept (PoC) for MIO-DNA interoperability, integrating strict data schemas under the HL7 FHIR standard for health and genetic data handling.
 <br>
-<i>Status: Algorithmic phase. Codebase coming soon.</i>
+<i>Tech Stack: <code>TypeScript</code>, <code>FHIR Interoperability</code>, <code>Reactive Architecture</code></i> 
+<br>
+🔗 <b><a href="https://github.com/GreeneRoman/dna-triage-dashboard">View Repository</a></b>
 </details>
 
 ---
