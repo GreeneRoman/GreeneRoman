@@ -41,4 +41,8 @@ A mathematical graphics project manipulating vertex and fragment shaders directl
 ---
 
 ## 📊 Live GitHub Activity
-👉 **[Explore Full Contribution History](https://github.com/GreeneRoman?tab=overview)**
+---
+
+## 📊 Live Contribution Stream
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
