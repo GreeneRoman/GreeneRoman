@@ -41,4 +41,4 @@ A mathematical graphics project manipulating vertex and fragment shaders directl
 ---
 
 ## 📊 Live GitHub Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GreeneRoman&show_icons=true&theme=tokyonight&count_private=true)
+👉 **[Explore Full Contribution History](https://github.com/GreeneRoman?tab=overview)**
