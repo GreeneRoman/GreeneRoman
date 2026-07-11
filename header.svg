@@ -1,26 +1,54 @@
 <svg viewBox="0 0 1000 240" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" style="background: #111111; font-family: 'Impact', 'Arial Black', -apple-system, sans-serif;">
+  <!-- 1. The Distressed Outlaw Canvas Base (Matte Textured Black) -->
   <rect width="1000" height="240" fill="#0d0d0d" />
+  
+  <!-- Subtle Frontier Target Matrix -->
   <path d="M 0,40 L 1000,40 M 0,200 L 1000,200" stroke="#1a1a1a" stroke-width="1" />
   <path d="M 150,0 L 150,240 M 850,0 L 850,240" stroke="#1a1a1a" stroke-width="1" />
+
+  <!-- 2. Geometric Leviathan (Rendered in Apple Charger Green & Crimson Gradient) -->
   <defs>
     <linearGradient id="hybridGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ff000b" />
       <stop offset="100%" stop-color="#30d158" />
     </linearGradient>
   </defs>
+  
   <g transform="translate(520, -15) scale(0.78)">
     <line x1="230" y1="250" x2="100" y2="340" stroke="#262626" stroke-width="2" stroke-dasharray="3 3" />
     <line x1="230" y1="250" x2="400" y2="250" stroke="#262626" stroke-width="2" stroke-dasharray="3 3" />
     <line x1="230" y1="250" x2="230" y2="70" stroke="#262626" stroke-width="2" stroke-dasharray="3 3" />
-    <path d="M120 230 C 170 180, 260 175, 310 210 C 350 240, 340 290, 290 300 C 250 310, 210 290, 170 285 C 130 295, 90 310, 60 275 C 40 250, 35 220, 55 210 C 75 200, 95 240, 120 230 Z" fill="none" stroke="url(#hybridGrad)" stroke-width="5" stroke-linejoin="round" />
+
+    <!-- Pure Hybrid Target Path -->
+    <path d="M120 230 C 170 180, 260 175, 310 210 C 350 240, 340 290, 290 300 C 250 310, 210 290, 170 285 C 130 295, 90 310, 60 275 C 40 250, 35 220, 55 210 C 75 200, 95 240, 120 230 Z" 
+          fill="none" stroke="url(#hybridGrad)" stroke-width="5" stroke-linejoin="round" />
+          
     <circle cx="275" cy="225" r="5" fill="#ffffff" />
   </g>
+
+  <!-- 3. SPLIT BRANDING TEXT -->
   <text x="50" y="105" font-weight="900" font-size="62" letter-spacing="-1">
+    <!-- GREENE remains in classic high-saturation Rockstar Red -->
     <tspan fill="#ff000b">GREENE </tspan>
+    <!-- ROMAN switches to brilliant Apple Charger Green -->
     <tspan fill="#30d158">ROMAN</tspan>
   </text>
+  
+  <!-- Underline Border split color element -->
   <rect x="52" y="125" width="215" height="6" fill="#ff000b" />
   <rect x="267" y="125" width="160" height="6" fill="#30d158" />
-  <text x="52" y="155" font-family="'Courier New', Courier, monospace" font-weight="900" font-size="11" fill="#eae3d2" letter-spacing="3" opacity="0.9">[ SYSTEM: SPATIAL COMPUTING &amp; GRAPHICS ENGINE ]</text>
+  
+  <!-- Subtitle Technical Data Stream -->
+  <text x="52" y="155" 
+        font-family="'Courier New', Courier, monospace" 
+        font-weight="900" 
+        font-size="11" 
+        fill="#eae3d2" 
+        letter-spacing="3" 
+        opacity="0.9">
+    [ SYSTEM: SPATIAL COMPUTING &amp; GRAPHICS ENGINE ]
+  </text>
+
+  <!-- Edge Framing Trim -->
   <rect x="15" y="15" width="970" height="210" fill="none" stroke="#30d158" stroke-width="1.5" opacity="0.15" />
 </svg>
