@@ -15,7 +15,7 @@ jobs:
     steps:
       # Generates the contribution grid animation with the custom burnt-orange snake
       - name: Generate Custom Snake Grid Asset
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
