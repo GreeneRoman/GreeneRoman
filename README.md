@@ -28,29 +28,15 @@
 
 ---
 
+
 ## 🤠 Pinned Engineering Repositories
 
-<details open>
-  <summary><b><font color="#ff000b">⚡ AsyncSpatial</font></b></summary>
-  <br>
-  Solves browser memory bottlenecks for volumetric datasets by wrapping an optimized Unity WebGL C# ring buffer inside a reactive Vue 3 telemetry interface. Focuses on low-overhead memory cycles and efficient runtime telemetry processing.
-  <br><br>
-  <i>Tech Stack: <code>C#</code>, <code>Unity WebGL</code>, <code>Vue 3</code>, <code>TypeScript</code></i> 
-  <br><br>
-  🔗 <b><a href="https://github.com/GreeneRoman/AsyncSpatial"><font color="#30d158">Inspect Source Architecture ↗</font></a></b>
-</details>
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| 🏔️ **[trame-terrain-viewer](https://github.com/GreeneRoman/trame-terrain-viewer)** · [▶ live demo](https://greeneroman.github.io/trame-terrain-viewer/viewer/) | `Trame` `PyVista` `VTK` `Three.js` | Scientific 3D terrain visualization in the browser with interactive filters + glTF export pipeline |
+| 🩻 **[C-ArmVR-Unity](https://github.com/GreeneRoman/C-ArmVR-Unity)** | `Unity` `C#` `Oculus` | VR interaction control for a C-arm X-ray system — medical simulation with usability testing |
+| 🏥 **[fhir-emergency-dataset-demo](https://github.com/GreeneRoman/fhir-emergency-dataset-demo)** | `Python` `HL7 FHIR R4` | Emergency patient dataset modeled as validated FHIR resources |
 
-<br>
-
-<details open>
-  <summary><b><font color="#ff000b">🧬 dna-triage-dashboard</font></b></summary>
-  <br>
-  A clinical triage dashboard built as a Proof of Concept (PoC) for MIO-DNA interoperability, integrating strict data schemas under the HL7 FHIR standard for health and genetic data handling.
-  <br><br>
-  <i>Tech Stack: <code>TypeScript</code>, <code>FHIR Interoperability</code>, <code>Reactive Architecture</code></i> 
-  <br><br>
-  🔗 <b><a href="https://github.com/GreeneRoman/dna-triage-dashboard"><font color="#30d158">Inspect Source Architecture ↗</font></a></b>
-</details>
 
 ---
 
